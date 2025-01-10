@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bunga Peti Archives - Fajar Florist</title>
+	<atom:link href="/category/bunga-peti/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/bunga-peti/</link>
+	<description>Jasa Penjualan dan Sewa Karangan Bunga</description>
+	<lastBuildDate>Fri, 23 Feb 2024 02:52:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/02/cropped-LOGO-FAJAR-FLORIST-32x32.png</url>
+	<title>Bunga Peti Archives - Fajar Florist</title>
+	<link>/category/bunga-peti/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bunga Peti Tipe 2</title>
+		<link>/product/bunga-peti-type-2/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 23 Feb 2024 02:47:22 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=477</guid>
+
+					<description><![CDATA[<p>The post <a href="/product/bunga-peti-type-2/">Bunga Peti Tipe 2</a> appeared first on <a href="/">Fajar Florist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/product/bunga-peti-type-2/">Bunga Peti Tipe 2</a> appeared first on <a href="/">Fajar Florist</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bunga Peti Tipe 1</title>
+		<link>/product/bunga-peti-type-1/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 23 Feb 2024 02:45:54 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=473</guid>
+
+					<description><![CDATA[<p>The post <a href="/product/bunga-peti-type-1/">Bunga Peti Tipe 1</a> appeared first on <a href="/">Fajar Florist</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a href="/product/bunga-peti-type-1/">Bunga Peti Tipe 1</a> appeared first on <a href="/">Fajar Florist</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
